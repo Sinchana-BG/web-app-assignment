@@ -1,0 +1,22 @@
+footer {
+    color: white;
+    background-color: #3D6271;
+    margin: 0em 4em 0.5em 4em;
+   }
+.whole{
+    border: #3D6271;
+    background-color: white;
+    margin: 0em 4em 0.5em 4em;
+    padding: 10px;
+}
+.first{
+    background-color: #3D6271;
+    margin: 0em 4em 0.5em 4em;
+    color: aliceblue;
+}
+.head{
+    background-color: rgba(151, 160, 184, 0.842);
+    font-size: large;
+    
+    
+}
